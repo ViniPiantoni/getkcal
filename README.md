@@ -1,4 +1,4 @@
-# GetKcal
+# getkcal
  
  # Instalação
  
