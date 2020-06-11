@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="logo" title="#logo" width="300px" src=".github/logo.svg">
+    <img alt="logo" title="#logo" width="500px" src=".github/logo.svg">
 </h3>
 
 <h3 align="center">getkcal - JAVASCRIPT, HTML, CSS</h3>
@@ -20,12 +20,16 @@
 
 O <strong>getkcal</strong> é uma aplicação simples feita totalmente em JavaScript puro, que se constitui uma calculadora de calorias no qual há métodos para calculo de metabolismo basal, mantimento de peso, perder peso e ganhar peso.
 
+<h3 align="center">
+    <img alt="projeto" title="#projeto" width="500px" src=".github/projeto.png">
+</h3>
+
 ---
 
 ### Tecnologias utilizadas
-- [JavaScript]
-- [HTML]
-- [CSS]
+- JavaScript
+- HTML
+- CSS
 
 ---
 
@@ -33,7 +37,7 @@ O <strong>getkcal</strong> é uma aplicação simples feita totalmente em JavaSc
 
  O projeto não necessita de nenhuma instalação.
 
- ### Apenas clone o repositório:
+ - Apenas clone o repositório:
 
  ```bash
 $ git clone https://github.com/ViniPiantoni/getkcal.git
@@ -43,7 +47,7 @@ $ git clone https://github.com/ViniPiantoni/getkcal.git
 
  ### Executando a aplicação
 
-Para executá-la é muito simples, basta abrir o arquivo "index.html" em qualquer navegador!
+Para executá-la é muito simples, basta abrir o arquivo "index.html" em qualquer navegador.
 
 ---
 
