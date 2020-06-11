@@ -21,7 +21,7 @@
 O <strong>getkcal</strong> é uma aplicação simples feita totalmente em JavaScript puro, que se constitui uma calculadora de calorias no qual há métodos para calculo de metabolismo basal, mantimento de peso, perder peso e ganhar peso.
 
 <h3 align="center">
-    <img alt="projeto" title="#projeto" width="500px" src=".github/projeto.png">
+    <img alt="projeto" title="#projeto" width="1000px" src=".github/projeto.png">
 </h3>
 
 ---
