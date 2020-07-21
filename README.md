@@ -2,7 +2,7 @@
     <img alt="logo" title="#logo" width="500px" src=".github/logo.svg">
 </h3>
 
-<h3 align="center">getkcal - JAVASCRIPT, HTML, CSS</h3>
+<h3 align="center">GETCKAL - JAVASCRIPT, HTML, CSS</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vinicius-piantoni-328339186">
@@ -16,7 +16,7 @@
 
 ---
 
-### Apresentação:
+### 🙋‍♂ Apresentação:
 
 O <strong>getkcal</strong> é uma aplicação simples feita totalmente em JavaScript puro, que se constitui uma calculadora de calorias no qual há métodos para calculo de metabolismo basal, mantimento de peso, perder peso e ganhar peso.
 
@@ -26,14 +26,14 @@ O <strong>getkcal</strong> é uma aplicação simples feita totalmente em JavaSc
 
 ---
 
-### Tecnologias utilizadas
-- JavaScript
-- HTML
-- CSS
+### 💻 Tecnologias utilizadas
+- [JavaScript](https://www.javascript.com/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ---
 
- ### Instalação
+ ### 🚧 Instalação
 
  O projeto não necessita de nenhuma instalação.
 
@@ -45,19 +45,16 @@ $ git clone https://github.com/ViniPiantoni/getkcal.git
 
 ---
 
- ### Executando a aplicação
+ ### 🎥 Executando a aplicação
 
 Para executá-la é muito simples, basta abrir o arquivo "index.html" em qualquer navegador.
 
 ---
 
-### Contato
+### 🔒 Licença
 
-- [LinkedIn](https://www.linkedin.com/in/vinicius-piantoni/)
-- vinicius4447@gmail.com
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-### Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Feito com ❤️ by [Vinicius Piantoni](https://www.linkedin.com/in/vinicius-piantoni-328339186).
